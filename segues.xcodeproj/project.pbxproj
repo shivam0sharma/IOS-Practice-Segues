@@ -12,6 +12,7 @@
 		40C9FD741ED89D16005EAB7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40C9FD721ED89D16005EAB7D /* Main.storyboard */; };
 		40C9FD761ED89D16005EAB7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40C9FD751ED89D16005EAB7D /* Assets.xcassets */; };
 		40C9FD791ED89D16005EAB7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40C9FD771ED89D16005EAB7D /* LaunchScreen.storyboard */; };
+		40C9FD811ED8B695005EAB7D /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C9FD801ED8B695005EAB7D /* BlueViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		40C9FD751ED89D16005EAB7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40C9FD781ED89D16005EAB7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		40C9FD7A1ED89D16005EAB7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40C9FD801ED8B695005EAB7D /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				40C9FD6E1ED89D16005EAB7D /* AppDelegate.swift */,
 				40C9FD701ED89D16005EAB7D /* ViewController.swift */,
+				40C9FD801ED8B695005EAB7D /* BlueViewController.swift */,
 				40C9FD721ED89D16005EAB7D /* Main.storyboard */,
 				40C9FD751ED89D16005EAB7D /* Assets.xcassets */,
 				40C9FD771ED89D16005EAB7D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40C9FD711ED89D16005EAB7D /* ViewController.swift in Sources */,
+				40C9FD811ED8B695005EAB7D /* BlueViewController.swift in Sources */,
 				40C9FD6F1ED89D16005EAB7D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
